@@ -12,7 +12,7 @@ Take the following schema for a N64 SQL database
 
 ``` SQL
  CREATE TABLE Games (
-   id SERIAL PRIMARY KEY,
+   id INTEGER PRIMARY KEY,
    title VARCHAR (50) NOT NULL,
    year INTEGER NOT NULL,
    developers VARCHAR (50),

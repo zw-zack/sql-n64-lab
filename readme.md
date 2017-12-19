@@ -2,6 +2,9 @@
 
 # Exercise - SQL 64
 
+
+[List of SQL Commands (important resource)](https://www.w3schools.com/sql/default.asp)
+
 ### Primary Key
 ![screen shot 2017-12-19 at 8 45 19 am](https://user-images.githubusercontent.com/6153182/34159939-111e3534-e499-11e7-8dc0-dc981518e0f1.png)
 

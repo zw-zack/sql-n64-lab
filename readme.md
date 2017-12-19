@@ -48,7 +48,7 @@ Use SQL queries to complete the following tasks
 
 4. Select all games that were made before 1998.
 
-5. Find the average release year of all games made by 'Nintendo EAD'
+5. Find the average release year of all games.
 
 6. Show the developer names of each game, in alphabetical order.
 

@@ -4,6 +4,8 @@
 
 
 [List of SQL Commands (important resource)](https://www.w3schools.com/sql/default.asp)
+
+
 [Codecademy SQL Commands (also great)](https://www.codecademy.com/articles/sql-commands?r=master)
 
 ### Primary Key

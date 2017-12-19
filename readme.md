@@ -2,6 +2,12 @@
 
 # Exercise - SQL 64
 
+## Primary Key
+![screen shot 2017-12-19 at 8 45 19 am](https://user-images.githubusercontent.com/6153182/34159939-111e3534-e499-11e7-8dc0-dc981518e0f1.png)
+
+# NOT NULL
+![screen shot 2017-12-19 at 8 47 19 am](https://user-images.githubusercontent.com/6153182/34160006-45f99a28-e499-11e7-9c45-960928c629ce.png)
+
 Take the following schema for a N64 SQL database
 
 ``` SQL

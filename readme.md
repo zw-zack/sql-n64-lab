@@ -25,7 +25,6 @@ Take the following schema for a N64 SQL database
    genre VARCHAR (50)
  );
 ```
-
 Create a database with this schema and seed it with some sample data
 
 ```SQL

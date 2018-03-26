@@ -19,10 +19,10 @@ Take the following schema for a N64 SQL database
 ``` SQL
  CREATE TABLE Games (
    id INTEGER PRIMARY KEY,
-   title VARCHAR (50) NOT NULL,
+   title TEXT NOT NULL,
    year INTEGER NOT NULL,
-   developers VARCHAR (50),
-   genre VARCHAR (50)
+   developers TEXT,
+   genre TEXT
  );
 ```
 Create a database with this schema and seed it with some sample data
